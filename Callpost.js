@@ -28,7 +28,7 @@ if(x=="2"){xxx="2018/09/ace-your-life-insurance-medical-exam.html"}
 if(x=="3"){xxx="2018/09/benefits-of-dates-for-health.html"}
 if(x=="4"){xxx="2018/09/variety-of-healthy-foods-for-heart.html"}
 if(x=="5"){xxx="2018/09/travel-car-insurance.html"}
-if(x=="6"){xxx="2018/09/why-you-need-travel-insurance.html"}
+if(x=="6"){xxx="/2018/09/why-you-need-travel-insurance.html"}
 if(x=="7"){xxx="2018/09/beneficiary-in-personal-insurance.html"}
 if(x=="8"){xxx="2018/09/early-symptoms-of-kidney-disease-you.html"}
 if(x=="9"){xxx="2018/09/travel-car-insurance.html"}
